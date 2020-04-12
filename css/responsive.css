@@ -1,0 +1,703 @@
+/*========================================================
+                extra small device responsive start
+========================================================*/
+@media(min-width: 320px) and (max-width: 575px) {
+    .navbar-brand .img {
+        transform: skew(0);
+        background: transparent;
+        border: transparent;
+        padding: 0;
+        position: static;
+    }
+
+    .navbar-brand .img img {
+        transform: skew(0);
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+
+    #banner_part .banner .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p {
+        width: auto;
+    }
+
+
+    #banner_part .banner2 .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p {
+        width: auto;
+    }
+
+    #banner_part .banner3 .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p {
+        width: auto;
+    }
+
+    #about_part .text p {
+        width: auto;
+    }
+
+    .title {
+        margin-top: 30px;
+    }
+
+    #testi_part .testi .overlay .details {
+        width: auto;
+    }
+
+    #testi_part ul {
+        bottom: -20%;
+    }
+
+    #gallery_part .gallery .overlay ul {
+        flex-direction: column;
+    }
+
+    #gallery_part .gallery .overlay ul li {
+        width: 100%;
+    }
+
+    #team_part .team {
+        margin-bottom: 70px;
+    }
+
+    #membership_part .members {
+        margin-top: 20px;
+    }
+
+    #counter_part .overlay h1 {
+        font-size: 11px;
+    }
+
+    #counter_part .overlay p {
+        font-size: 3px;
+    }
+
+    #counter_part .overlay .middle {
+        margin-left: 0;
+    }
+
+    .colorful-tab-wrapper {
+        padding: 0;
+    }
+
+    .colorful-tab-menu {
+        flex-direction: row;
+    }
+
+    #class-part ul li a {
+        font-size: 11px;
+    }
+
+    #class-part .item {
+        width: 100%;
+    }
+
+    .slick-slide img {
+        margin: 0 auto;
+    }
+
+    #partner_part .next {
+        right: 5px;
+    }
+
+    #partner_part .prev {
+        left: 5px;
+    }
+
+
+}
+
+/*========================================================
+                extra small device responsive end
+========================================================*/
+/*========================================================
+                sm device responsive start
+========================================================*/
+@media(min-width: 576px) and (max-width: 767px) {
+    .navbar-brand .img {
+        transform: skew(0);
+        background: transparent;
+        border: transparent;
+        padding: 0;
+        position: static;
+    }
+
+    .navbar-brand .img img {
+        transform: skew(0);
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+
+    #banner_part .banner .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p {
+        width: auto;
+    }
+
+
+    #banner_part .banner2 .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p {
+        width: auto;
+    }
+
+    #banner_part .banner3 .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p {
+        width: auto;
+    }
+
+    #about_part .text p {
+        width: auto;
+    }
+
+    .title {
+        margin-top: 30px;
+    }
+
+
+    #gallery_part .gallery .overlay ul {
+        flex-direction: row;
+    }
+
+    #gallery_part .gallery .overlay ul li {
+        width: 31%;
+    }
+
+    #team_part .team .text p {
+        width: auto;
+    }
+
+    #team_part .team {
+        margin-bottom: 70px;
+    }
+
+    #testi_part .testi .overlay .designation .text {
+        margin-top: 0;
+    }
+
+    #testi_part ul {
+        bottom: -35%;
+    }
+
+    #testi_part .testi .overlay .details {
+        width: auto;
+    }
+
+    #testi_part {
+        margin-top: 0px;
+    }
+
+    #membership_part .members {
+        margin-top: 20px;
+    }
+
+    #counter_part .overlay h1 {
+        font-size: 30px;
+    }
+
+    #counter_part .overlay p {
+        font-size: 8px;
+    }
+
+    #counter_part .overlay .middle {
+        margin-left: 0;
+    }
+
+    .colorful-tab-wrapper {
+        padding: 0;
+    }
+
+    .colorful-tab-menu {
+        flex-direction: row;
+    }
+
+    #class-part .item {
+        width: 48%;
+    }
+
+    .slick-slide img {
+        margin: 0 auto;
+    }
+
+    #partner_part .next {
+        right: 5px;
+    }
+
+    #partner_part .prev {
+        left: 5px;
+    }
+
+
+
+
+}
+
+/*========================================================
+                sm device responsive end
+========================================================*/
+
+
+
+/*========================================================
+                md device responsive start
+========================================================*/
+
+@media(min-width: 768px) and (max-width: 991px) {
+    .navbar-brand .img {
+        transform: skew(0);
+        background: transparent;
+        border: transparent;
+        padding: 0;
+        position: static;
+    }
+
+    .navbar-brand .img img {
+        transform: skew(0);
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+
+    #banner_part .banner .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner .overlay .text p::after {
+        width: 0;
+    }
+
+
+
+    #banner_part .banner2 .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner2 .overlay .text p::after {
+        width: 0;
+    }
+
+
+    #banner_part .banner3 .overlay .text h2::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h2::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h1::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text h1::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p::before {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p::after {
+        width: 0;
+    }
+
+    #banner_part .banner3 .overlay .text p {
+        width: auto;
+    }
+
+    #about_part .text p {
+        margin: 20px auto;
+    }
+
+    .title {
+        margin-top: 30px;
+    }
+
+
+    #gallery_part .gallery .overlay ul {
+        flex-direction: row;
+    }
+
+    #gallery_part .gallery .overlay ul li {
+        width: 31%;
+    }
+
+    #team_part .team .text p {
+        width: auto;
+    }
+
+    #team_part .team {
+        margin-bottom: 70px;
+    }
+
+    #testi_part {
+        margin-top: 0px;
+    }
+
+    #testi_part .testi .overlay .designation .text {
+        margin-top: 0;
+    }
+
+    #testi_part .testi .overlay .details {
+        width: auto;
+    }
+
+    #testi_part ul {
+        bottom: -55px;
+    }
+
+    #membership_part .members {
+        margin-top: 20px;
+    }
+
+    #membership_part .members h2 {
+        font-size: 12px;
+    }
+
+    #counter_part .overlay .middle {
+        margin-left: 0;
+    }
+
+    #counter_part .overlay p {
+        font-size: 14px;
+    }
+
+    .colorful-tab-wrapper {
+        padding: 0;
+    }
+
+    .colorful-tab-menu {
+        flex-direction: row;
+    }
+
+    #class-part .item {
+        width: 48%;
+    }
+
+    .slick-slide img {
+        margin: 0 auto;
+    }
+
+    #partner_part .next {
+        right: -20px;
+    }
+
+    #partner_part .prev {
+        left: -20px;
+    }
+
+
+
+}
+
+/*========================================================
+                md device responsive end
+========================================================*/
+/*========================================================
+                lg device responsive start
+========================================================*/
+@media(min-width:992px) and (max-width:1199px) {
+    #banner_part .banner .overlay .text h1::before {
+        top: -46px;
+        right: 149px;
+    }
+
+    #banner_part .banner .overlay .text h1::after {
+        top: -46px;
+        left: 149px;
+    }
+
+    #banner_part .banner .overlay .text p::before {
+        right: -65px;
+    }
+
+    #banner_part .banner .overlay .text p::after {
+        left: -65px;
+    }
+
+    #banner_part .banner .overlay .text h2::before {
+        right: -231px;
+    }
+
+    #banner_part .banner .overlay .text h2::after {
+        left: -231px;
+    }
+
+    #banner_part .banner2 .overlay .text h1::before {
+        top: -46px;
+        right: 149px;
+    }
+
+    #banner_part .banner2 .overlay .text h1::after {
+        top: -46px;
+        left: 149px;
+    }
+
+    #banner_part .banner2 .overlay .text p::before {
+        right: -65px;
+    }
+
+    #banner_part .banner2 .overlay .text p::after {
+        left: -65px;
+    }
+
+    #banner_part .banner2 .overlay .text h2::before {
+        right: -231px;
+    }
+
+    #banner_part .banner2 .overlay .text h2::after {
+        left: -231px;
+    }
+
+    #banner_part .banner3 .overlay .text h1::before {
+        top: -46px;
+        right: 149px;
+    }
+
+    #banner_part .banner3 .overlay .text h1::after {
+        top: -46px;
+        left: 149px;
+    }
+
+    #banner_part .banner3 .overlay .text p::before {
+        right: -65px;
+    }
+
+    #banner_part .banner3 .overlay .text p::after {
+        left: -65px;
+    }
+
+    #banner_part .banner3 .overlay .text h2::before {
+        right: -231px;
+    }
+
+    #banner_part .banner3 .overlay .text h2::after {
+        left: -231px;
+    }
+
+    #about_part .text p {
+        margin-top: 10px;
+        width: auto;
+        line-height: 18px;
+    }
+
+    #team_part .team .text p {
+        width: auto;
+    }
+
+    #testi_part .testi .overlay .designation .text {
+        margin-top: 0;
+    }
+
+    #testi_part .testi .overlay .details {
+        width: auto;
+    }
+
+    #testi_part ul {
+        bottom: -30%;
+    }
+
+    #class-part .item {
+        width: 18%;
+    }
+
+    #partner_part .prev {
+        left: -25px;
+    }
+
+    #partner_part .next {
+        right: -25px;
+    }
+
+    #footer_part .overlay .contact {
+        padding-left: 20px;
+    }
+
+    #footer_part .overlay .contact .con .text p.width {
+        width: auto;
+    }
+
+    #footer_part .overlay .contact .social a i {
+        margin-right: 4px;
+    }
+}
+
+/*========================================================
+                lg device responsive end
+========================================================*/
